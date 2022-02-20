@@ -1,0 +1,31 @@
+body {
+  background-color: #D3DEDC;
+}
+
+hr {
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  border-bottom-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #21325E;
+}
+
+h2 {
+  color: #325288;
+}
+
+
+img:hover{
+  background-color: red;
+}
+
+
+.oda1{
+  background: orange;
+}
